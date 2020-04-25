@@ -6,7 +6,7 @@ namespace LINQSamples
     {
         static void Main(string[] args)
         {
-            Aggregate.Run();
+            Grouping.Run();
         }
     }
 }
